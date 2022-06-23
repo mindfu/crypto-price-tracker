@@ -1,0 +1,17 @@
+{
+  "name": "cryptocurrency-price-tracker",
+  "version": "1.0.0",
+  "description": "An app that lists a number of cryptocurrencies and their real time prices.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Scrivo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "socket.io": "^4.5.1"
+  }
+}
