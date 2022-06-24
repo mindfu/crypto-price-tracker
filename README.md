@@ -1,4 +1,4 @@
-# Getting Started
+🚀 Quick Start
 
 This is a live real-time cryptocurrency price tracker that uses the Messari.io API for data and updates every 5 seconds.  You will need to signup for an API key in order to use the Messari API.
 
